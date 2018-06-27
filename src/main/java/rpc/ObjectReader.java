@@ -10,7 +10,7 @@ import java.nio.channels.SocketChannel;
 
 /**
  * 
- * @author gshen
+ * @author gshend
  *
  */
 public class ObjectReader  {
